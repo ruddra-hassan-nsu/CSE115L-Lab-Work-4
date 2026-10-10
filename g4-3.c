@@ -9,5 +9,5 @@ int main(void)
   printf("fabs(floor(-2.3)) = %.4f\n", fabs(floor(-2.3)));
   printf("sqrt(ceil(fabs(-7.4))) = %.4f\n", sqrt(ceil(fabs(-7.4))));
 
-  return 0;
+  return (0);
 }
